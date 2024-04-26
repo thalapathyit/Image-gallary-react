@@ -1,0 +1,13 @@
+.hulk{
+  display: flex;
+  flex-wrap:wrap;
+}
+.hulk>div{
+  position: relative;
+  flex-basis:20%;
+  margin: 5px;
+  left: 30px;
+}
+p{
+  text-align: center;
+}
